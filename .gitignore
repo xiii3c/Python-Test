@@ -2,7 +2,7 @@ import os
 import platform
 
 global danhsachsv
-danhsachsv = ["DC","14K","LowKey","Flow"]
+danhsachsv = ["Blue","Red","Yellow","Black"]
 
 def show_menu():
     print("******************************************")
